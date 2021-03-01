@@ -1,2 +1,8 @@
 # JUnit-Automation
-Example of utilizing Junit testing
+
+As we progressed through this course, there was a heavy emphasis on efficiency through JUnit testing. By utilizing JUnit, we can be positive that the developed software operates within certain criteria we set-forth through testing. By allowing code to assert conditions about other code, we have a layer of control that helps reduce human error. This methodology of testing also allows us to assert functionality without any form of GUI; that is a powerful tool that any developer or tester should have in their toolbelt. 
+
+Another area touched upon in this course deals with the needs of a client as well as the development approach. Since we were the testers and the developers, we had to closely listen to the client’s requirements and limit bias as much as possible. By paying special attention to these needs, we can layout a development and testing path which will yield quality software. Regarding that path, it’s important to give the development process significant thought prior to implementation. The saying “throwing code at a page,” is not only a waste of time and resources but will also lead to unnecessary defects within the software. Instead, we should take a careful and detailed approach to both development and testing. This can include project plans, dynamic or static testing regimens. 
+
+This class was a lot of fun and I certainly learned a lot about how I can improve the code I develop by testing alongside it. All too often, I’ve developed a command-based program and run it hundreds of times in order to troubleshoot. A tool such as JUnit skips that entirely and can assert that components of the software are working correctly. I look forward to utilizing this tool in the future.  
+
